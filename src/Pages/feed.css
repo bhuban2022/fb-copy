@@ -1,0 +1,51 @@
+.story_section{
+    width: 60%;
+    border-radius: 10px;
+    background-color: white;
+padding: 8px;
+cursor: pointer;
+}
+.story_cover{
+    padding: 8px;
+    background-color: inherit;
+    border-radius: 10px;
+
+}
+.story_cover:hover{
+    background-color: rgb(247, 249, 250);
+}
+.plus_circle{
+    width: 45px;
+    height: 45px;
+    background-color: aliceblue;
+    color:rgb(66, 66, 245) ;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.story_create{
+    font-size: 18px;
+    color: black;
+    font-weight: 500;
+}
+.story_text{
+    margin-left: 10px;
+}
+.story_des{
+    font-size: 16px;
+    color: rgb(117, 117, 117);
+}
+.post_input{
+    border: none;
+    font-size: larger;
+    width: 100%;
+}
+.post area input:focus{
+    border: none;
+    box-shadow: none;
+}
+ .modal-head h5 {
+ /* text-align: center; */
+} 
